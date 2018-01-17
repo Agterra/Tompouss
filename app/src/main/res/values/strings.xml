@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tompouss</string>
+    <string name="title_home">Actualités</string>
+    <string name="title_dashboard">Notes</string>
+    <string name="title_edt">EDT</string>
+    <string name="edt_placeholder">N° de ressource (3 lettres)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
